@@ -1,0 +1,34 @@
+📊 Pengolahan Data Pemesanan dan Pengiriman di Excel
+
+Deskripsi
+Proyek ini berfokus pada pengolahan data pemesanan customer menggunakan Microsoft Excel serta menentukan lama pengiriman berdasarkan domisili.
+
+Dataset
+Data terdiri dari:
+- Nomor pemesanan
+- Nama customer
+- Jenis kelamin
+- Domisili
+- Tanggal pemesanan
+- Lama pengiriman
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Referensi data (lookup)
+- Absolute reference (F4)
+
+Hasil Analisis
+- Data pemesanan berhasil diolah dengan rapi
+- Lama pengiriman ditentukan berdasarkan domisili
+- Informasi menjadi lebih terstruktur dan mudah dipahami
+
+Tujuan Proyek
+- Melatih pengolahan data operasional
+- Memahami penggunaan referensi data di Excel
+- Mengelola data customer dan pengiriman
+
+Insight
+Penggunaan referensi data membantu menghubungkan informasi dari beberapa tabel sehingga mempermudah pengolahan data secara efisien.
+
+Penutup
+Proyek ini merupakan latihan dalam pengolahan data pemesanan dan distribusi menggunakan Excel.
